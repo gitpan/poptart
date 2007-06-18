@@ -1,0 +1,5 @@
+poptart is a simple script to process the headers of email stored 
+on a pop3 server for basic spam traits, and delete them if the tests
+hit, avoiding downloading the whole email to client applications 
+only to find it's spam so you delete it anyway.
+

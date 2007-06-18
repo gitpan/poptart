@@ -1,0 +1,11 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         poptart
+version:      0.1
+version_from: bin/poptart
+installdirs:  site
+requires:
+    Mail::POP3Client
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.25
